@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  submissions:
+    build: .
+    ports:
+     - "5003:5003"
