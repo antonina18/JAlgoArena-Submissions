@@ -17,7 +17,7 @@ deploy:
   provider: heroku
   api_key:
       secure: wI6ejYbbl4Tk59/cn45YOgAOrjDaw+l1BlrsFeVTo4Jiu/wLAA19vV0JiMc9O2EU3pBaXoprPQl1B7eGSH/di8x9aMysK3PNaKoXGFowykDLU6BjQ+viWKNbZI9gqSSmx9Ex+a7QB3zTgvKfQJiM25PqEUo9vvUBDbF2YqMlAAJSxpdJzhYoq+pnvqugevjH5IqpW0IjlP1NpvypVwxcQotX4TQA05Izoa7An3L7qwhDqZhWsDkqqqp1Da5bpMMc0B4qV0V1vBMxBbc4D+6s1CKR8gAerhieT69fV8mr2B6kDKxi9fbEvuS9xBH/HjhqGtuC1OiQOHYMSs+J8pX/t+EJ/wdXv8GLHsKMb9ErTicaEqyT3LfBw6Axdvnm+Cr8EqaP5Ma0C+iOd/KZ2AFl9daawjyFOFPqQoa8KQcHL46C96AC6kLyOQSN/SN2Jl98P5P4pP64N3N8ljScuFO/VBlYXLqKrgivDMnnynqg/ZvWzM93KXjSZnx4E8ElPQSAlZdCS5crbfTL/vV2Zxouc1u+ihUWpqhLtZquBsqKl+u/h2/JaqG1jO2SXPPp5tTIR4izVxFVF6cFL57F27/i1QdtUEG5PeTiHbsGZN4iKIaLDbQC+UJsLSxszdYJ8sxNFOLxnG1HbggEtABE/Nx/eVvvzkGhmB+zPXesDBpx8l0=
-  app: jalgoarena-sumbissions-ksowa
+  app: ksowa-jalgoarena-sumbissions
   file_glob: true
   file: "./build/libs/JAlgoArena-Submissions-*.zip"
   skip_cleanup: true
